@@ -25,8 +25,6 @@ Web Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Kantslo"><img src="https://github-readme-stats.vercel.app/api?username=Kantslo&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=27272a&hide_border=true&show_icons=true" alt="Kantslo's GitHub stats" /></a>
-
 <a href="http://www.github.com/Kantslo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kantslo&stroke=a855f7&background=27272a&ring=a855f7&fire=a855f7&currStreakNum=a855f7&currStreakLabel=a855f7&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
 <a href="https://github.com/Kantslo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kantslo&langs_count=10&title_color=a855f7&text_color=a855f7&icon_color=a855f7&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
