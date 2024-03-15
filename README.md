@@ -7,7 +7,6 @@ Web Developer
 * 🌍  I'm based in Tbilisi, Georgia.
 * ✉️  You can contact me at [gqancliani@gmail.com](mailto:gqancliani@gmail.com)
 * 🧠  I'm learning Typescript, Express.js, and Next.js currently.
-* ⚡  Night Owl
 
 ### Skills
 
