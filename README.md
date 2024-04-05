@@ -3,10 +3,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I’m a developer with a strong foundation in both front-end and back-end technologies. I’m highly motivated to enhance my skills in line with the latest updates. Currently, I’m focusing on expanding my experience as a back-end developer while simultaneously boosting my knowledge in front-end development. I’m eager to take on new challenges and learn more in this ever-evolving field of programming.
 
-* 🌍  I'm based in Tbilisi
-* 🖥️  See my portfolio at [here](http://giorgi-kantsliani.vercel.app/)
-* ✉️  You can contact me at [gqancliani@gmail.com](mailto:gqancliani@gmail.com)
-* 🧠  I'm learning Typescript, Express.js, and Next.js currently
+* 🌍  I'm based in Tbilisi, Georgia.
+* 🖥️  See my portfolio at [here](http://giorgi-kantsliani.vercel.app/).
+* ✉️  You can contact me at [gqancliani@gmail.com](mailto:gqancliani@gmail.com).
+* 🧠  I'm learning Typescript, Express.js, and Next.js currently.
 
 ### Skills
 
