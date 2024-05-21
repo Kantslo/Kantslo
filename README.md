@@ -6,7 +6,7 @@ I’m a developer with a strong foundation in both front-end and back-end techno
 * 🌍  I'm based in Tbilisi
 * 🖥️  See my portfolio at [here](http://giorgi-kantsliani.vercel.app/)
 * ✉️  You can contact me at [gqancliani@gmail.com](mailto:gqancliani@gmail.com)
-* 🧠  I'm learning Golang, Expressjs and Typescript currently
+* 🧠  I'm learning Go, Expressjs and Typescript currently
 
 ### Skills
 
